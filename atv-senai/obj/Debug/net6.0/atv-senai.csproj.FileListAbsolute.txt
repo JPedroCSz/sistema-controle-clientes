@@ -1,0 +1,15 @@
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\bin\Debug\net6.0\atv-senai.exe
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\bin\Debug\net6.0\atv-senai.deps.json
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\bin\Debug\net6.0\atv-senai.runtimeconfig.json
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\bin\Debug\net6.0\atv-senai.dll
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\bin\Debug\net6.0\atv-senai.pdb
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.csproj.AssemblyReference.cache
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.AssemblyInfoInputs.cache
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.AssemblyInfo.cs
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.csproj.CoreCompileInputs.cache
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.dll
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\refint\atv-senai.dll
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.pdb
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\atv-senai.genruntimeconfig.cache
+E:\Arquivos Pessoais\SENAI-FULLSTACK\BackEnd\Atividades\Sist-Controle-Clientes\atv-sistema-de-controle\atv-senai\obj\Debug\net6.0\ref\atv-senai.dll
